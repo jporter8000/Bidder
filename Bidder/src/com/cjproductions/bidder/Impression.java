@@ -22,7 +22,7 @@ public class Impression {
 			this.bidfloorcur = bidfloorcur;
 		}
 		
-		// testing v2
+		// testing v2 v23
 		
 		
 	}
