@@ -8,6 +8,7 @@ public class Impression {
 		private String tagid;
 		private float bidfloor;
 		private String bidfloorcur;
+		private String tittysucker;
 		
 		public Impression(String id, String displaymanager,
 				String displaymanagerver, int instl, String tagid, float bidfloor,
