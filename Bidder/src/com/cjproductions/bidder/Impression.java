@@ -9,6 +9,7 @@ public class Impression {
 		private float bidfloor;
 		private String bidfloorcur;
 		
+		
 		public Impression(String id, String displaymanager,
 				String displaymanagerver, int instl, String tagid, float bidfloor,
 				String bidfloorcur) {
